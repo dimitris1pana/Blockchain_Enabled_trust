@@ -1,14 +1,15 @@
-# Blockchain-Enabled Trust and Compliance for Clinical AI
+# Clinical AI Governance Framework
 
-**Decentralized Governance without Decentralized Data Storage**
+**Reference Implementation: Blockchain-Enabled Trust and Compliance**
 
-[![Publication Pending](https://img.shields.io/badge/Publication-Pending-yellow)](.)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18648353.svg)](https://doi.org/10.5281/zenodo.18648353)
+[![Publication Pending](https://img.shields.io/badge/Publication-Pending-yellow)](.) 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
 ## Overview
 
-This repository contains a reference implementation of a comprehensive governance framework for clinical artificial intelligence systems. The system provides **cryptographic auditability, consent enforcement, and reproducibility** without storing sensitive patient data on distributed ledgers.
+A **reference software implementation** of a comprehensive governance framework for clinical artificial intelligence systems. This system provides **cryptographic auditability, consent enforcement, and reproducibility** without storing sensitive patient data on distributed ledgers.
 
 ### Key Innovation
 
@@ -221,6 +222,7 @@ blockChain/
   author={Panagoulias, Dimitrios P. and Damian, Andrei Ionut and Stamate, Cosmin and Toderian, Vitalii and Butusina, Petrica and De Franceschi, Alessandro and Bleotiu, Cristian and Sakkopoulos, Evangelos and Tsihrintzis, George A. and Virvou, Maria},
   journal={[Journal Name Pending]},
   year={2026},
+  doi={10.5281/zenodo.18648353},
   note={Publication pending}
 }
 ```

@@ -28,7 +28,8 @@ REQUIRED CITATION (until publication):
   De Franceschi, A., Bleotiu, C., Sakkopoulos, E., Tsihrintzis, G.A., and 
   Virvou, M. (2026). "Blockchain-Enabled Trust and Compliance for Clinical AI: 
   Decentralized Governance without Decentralized Data Storage." 
-  [Publication Pending]. Available at: [Repository URL]
+  DOI: 10.5281/zenodo.18648353. [Publication Pending]. 
+  Available at: https://github.com/dimitris1pana/Blockchain_Enabled_trust
 
 BIBTEX FORMAT:
 
@@ -42,6 +43,7 @@ BIBTEX FORMAT:
             Virvou, Maria},
     journal={[Journal Name Pending]},
     year={2026},
+    doi={10.5281/zenodo.18648353},
     note={Publication pending}
   }
 
