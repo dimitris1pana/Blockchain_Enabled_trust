@@ -1,0 +1,91 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the pending publication."
+type: software
+title: "Blockchain-Enabled Trust and Compliance for Clinical AI: Decentralized Governance without Decentralized Data Storage"
+version: 1.0.0
+date-released: 2026-02-15
+url: "https://github.com/[your-repo]/blockChain"
+repository-code: "https://github.com/[your-repo]/blockChain"
+license: CC-BY-4.0
+keywords:
+  - blockchain
+  - clinical-ai
+  - governance
+  - healthcare
+  - consent-management
+  - audit-trail
+  - reproducibility
+  - HIPAA
+  - GDPR
+  - medical-ai
+  - cryptographic-integrity
+authors:
+  - family-names: "Panagoulias"
+    given-names: "Dimitrios P."
+    email: "panagoulias_d@unipi.gr"
+    affiliation: "Department of Informatics, University of Piraeus"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Damian"
+    given-names: "Andrei Ionut"
+    email: "andrei.damian@ratio1.ai"
+    affiliation: "Ratio1.ai; University POLITEHNICA of Bucharest"
+  - family-names: "Stamate"
+    given-names: "Cosmin"
+    email: "c.stamate@bbk.ac.uk"
+    affiliation: "Ratio1.ai; Birkbeck College, University of London"
+  - family-names: "Toderian"
+    given-names: "Vitalii"
+    email: "vitalii.toderian@ratio1.ai"
+    affiliation: "Ratio1.ai; University POLITEHNICA of Bucharest"
+  - family-names: "Butusina"
+    given-names: "Petrica"
+    email: "petrica.butusina@ratio1.ai"
+    affiliation: "Ratio1.ai"
+  - family-names: "De Franceschi"
+    given-names: "Alessandro"
+    email: "alessandro.defranceschi@ratio1.ai"
+    affiliation: "Ratio1.ai"
+  - family-names: "Bleotiu"
+    given-names: "Cristian"
+    email: "cristian.bleotiu@ratio1.ai"
+    affiliation: "Ratio1.ai"
+  - family-names: "Sakkopoulos"
+    given-names: "Evangelos"
+    email: "sakkopul@gmail.com"
+    affiliation: "Department of Informatics, University of Piraeus"
+  - family-names: "Tsihrintzis"
+    given-names: "George A."
+    email: "geoatsi@unipi.gr"
+    affiliation: "Department of Informatics, University of Piraeus"
+  - family-names: "Virvou"
+    given-names: "Maria"
+    email: "mvirvou@unipi.gr"
+    affiliation: "Department of Informatics, University of Piraeus"
+preferred-citation:
+  type: article
+  title: "Blockchain-Enabled Trust and Compliance for Clinical AI: Decentralized Governance without Decentralized Data Storage"
+  authors:
+    - family-names: "Panagoulias"
+      given-names: "Dimitrios P."
+    - family-names: "Damian"
+      given-names: "Andrei Ionut"
+    - family-names: "Stamate"
+      given-names: "Cosmin"
+    - family-names: "Toderian"
+      given-names: "Vitalii"
+    - family-names: "Butusina"
+      given-names: "Petrica"
+    - family-names: "De Franceschi"
+      given-names: "Alessandro"
+    - family-names: "Bleotiu"
+      given-names: "Cristian"
+    - family-names: "Sakkopoulos"
+      given-names: "Evangelos"
+    - family-names: "Tsihrintzis"
+      given-names: "George A."
+    - family-names: "Virvou"
+      given-names: "Maria"
+  year: 2026
+  journal: "[Journal Name Pending]"
+  status: "in-preparation"
+  notes: "Publication pending"

@@ -1,0 +1,116 @@
+Creative Commons Attribution 4.0 International License
+with Academic Citation Requirement
+
+Copyright (c) 2026 Dimitrios P. Panagoulias, Andrei Ionut Damian, Cosmin Stamate, 
+Vitalii Toderian, Petrica Butusina, Alessandro De Franceschi, Cristian Bleotiu, 
+Evangelos Sakkopoulos, George A. Tsihrintzis, and Maria Virvou
+
+================================================================================
+
+This work is licensed under the Creative Commons Attribution 4.0 International 
+License (CC BY 4.0) with the ADDITIONAL REQUIREMENT specified below.
+
+To view a copy of CC BY 4.0, visit: 
+http://creativecommons.org/licenses/by/4.0/
+
+================================================================================
+
+ADDITIONAL ACADEMIC CITATION REQUIREMENT
+
+In addition to the standard CC BY 4.0 terms, any use of this software, 
+documentation, algorithms, or derivative works thereof MUST include proper 
+academic citation in any resulting publications, presentations, software 
+distributions, or other materials.
+
+REQUIRED CITATION (until publication):
+
+  Panagoulias, D.P., Damian, A.I., Stamate, C., Toderian, V., Butusina, P., 
+  De Franceschi, A., Bleotiu, C., Sakkopoulos, E., Tsihrintzis, G.A., and 
+  Virvou, M. (2026). "Blockchain-Enabled Trust and Compliance for Clinical AI: 
+  Decentralized Governance without Decentralized Data Storage." 
+  [Publication Pending]. Available at: [Repository URL]
+
+BIBTEX FORMAT:
+
+  @article{panagoulias2026blockchain,
+    title={Blockchain-Enabled Trust and Compliance for Clinical AI: 
+           Decentralized Governance without Decentralized Data Storage},
+    author={Panagoulias, Dimitrios P. and Damian, Andrei Ionut and 
+            Stamate, Cosmin and Toderian, Vitalii and Butusina, Petrica and 
+            De Franceschi, Alessandro and Bleotiu, Cristian and 
+            Sakkopoulos, Evangelos and Tsihrintzis, George A. and 
+            Virvou, Maria},
+    journal={[Journal Name Pending]},
+    year={2026},
+    note={Publication pending}
+  }
+
+Upon publication, citations should be updated to reference the published paper.
+
+================================================================================
+
+CREATIVE COMMONS ATTRIBUTION 4.0 INTERNATIONAL LICENSE SUMMARY
+
+You are free to:
+
+  - Share: copy and redistribute the material in any medium or format
+  - Adapt: remix, transform, and build upon the material for any purpose, 
+    even commercially
+
+Under the following terms:
+
+  - Attribution: You must give appropriate credit, provide a link to the 
+    license, and indicate if changes were made. You may do so in any 
+    reasonable manner, but not in any way that suggests the licensor 
+    endorses you or your use.
+
+  - No additional restrictions: You may not apply legal terms or technological 
+    measures that legally restrict others from doing anything the license 
+    permits.
+
+  - CITATION REQUIREMENT: In addition to standard attribution, you MUST 
+    include proper academic citation as specified above.
+
+================================================================================
+
+INSTITUTIONAL AFFILIATIONS
+
+1. Department of Informatics, University of Piraeus, 185 34, Greece
+2. Ratio1.ai, Bucharest, Romania
+3. Computer Science and Information Technology Department, Faculty of 
+   Automatic Control and Computers, University POLITEHNICA of Bucharest, Romania
+4. Birkbeck Knowledge Lab, Birkbeck College, University of London, UK
+
+================================================================================
+
+ACKNOWLEDGMENTS
+
+This work was partially supported by the University of Piraeus Research Center 
+with EU Co-funding "Greece 2.0, SUB1.1: Clusters of Research Excellence (CREs), 
+project No. YP3TA-0561098 entitled 'AI Data-Driven, Ethical, Environmental 
+Performance - Enhanced Social Governance Analytics with Anonymity Protection'."
+
+================================================================================
+
+CONTACT
+
+For questions regarding licensing, collaboration, or citation:
+Dimitrios P. Panagoulias
+Email: panagoulias_d@unipi.gr
+Department of Informatics, University of Piraeus, Greece
+
+================================================================================
+
+DISCLAIMER
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+THE SOFTWARE.
+
+THIS IS RESEARCH SOFTWARE. PRODUCTION DEPLOYMENT IN CLINICAL SETTINGS REQUIRES 
+ADDITIONAL VALIDATION, SECURITY HARDENING, REGULATORY COMPLIANCE REVIEW, AND 
+INSTITUTIONAL APPROVAL.
