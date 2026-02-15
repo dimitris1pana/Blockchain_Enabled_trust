@@ -5,7 +5,7 @@ title: "Clinical AI Governance Framework: Reference Implementation"
 version: "1.0.0"
 abstract: "A reference software implementation of blockchain-enabled trust and compliance for clinical AI systems with decentralized governance but without decentralized data storage."
 date-released: "2026-02-15"
-doi: 10.5281/zenodo.18648353
+doi: 10.5281/zenodo.18648393
 repository-code: "https://github.com/dimitris1pana/Blockchain_Enabled_trust"
 url: "https://github.com/dimitris1pana/Blockchain_Enabled_trust"
 license: "Apache-2.0"
@@ -69,4 +69,4 @@ preferred-citation:
     - family-names: "Virvou"
       given-names: "Maria"
   year: 2026
-  doi: 10.5281/zenodo.18648353
+  doi: 10.5281/zenodo.18648393

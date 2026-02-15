@@ -2,7 +2,7 @@
 
 **Reference Implementation: Blockchain-Enabled Trust and Compliance**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18648353.svg)](https://doi.org/10.5281/zenodo.18648353)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18648393.svg)](https://doi.org/10.5281/zenodo.18648393)
 [![Publication Pending](https://img.shields.io/badge/Publication-Pending-yellow)](.) 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
@@ -222,7 +222,7 @@ blockChain/
   author={Panagoulias, Dimitrios P. and Damian, Andrei Ionut and Stamate, Cosmin and Toderian, Vitalii and Butusina, Petrica and De Franceschi, Alessandro and Bleotiu, Cristian and Sakkopoulos, Evangelos and Tsihrintzis, George A. and Virvou, Maria},
   journal={[Journal Name Pending]},
   year={2026},
-  doi={10.5281/zenodo.18648353},
+  doi={10.5281/zenodo.18648393},
   note={Publication pending}
 }
 ```
